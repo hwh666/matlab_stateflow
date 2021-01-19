@@ -1,0 +1,14 @@
+*.mat
+*.dmr
+*.txt
+*.mk
+*.rsp
+*.tmw
+/slprj
+*.slxc
+*.mexw64
+*.prj
+*.bat
+/resource
+/my_stateflow_ert_rtw/html
+/my_stateflow_ert_rtw/tmwinternal
